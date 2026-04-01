@@ -119,6 +119,7 @@ Tools                MS Excel (Advanced) · Microsoft SSIS · Jupyter Notebook �
 
 ## 🏆 Achievements & Certifications
 
+- 🏅 **Anthropic Education Certified** - AI Fluency: Framework & Foundations and AI Fluency for Students  *(April 2026)*
 - 🏅 **McKinsey.org Forward Program** - Selective global leadership & skills accelerator *(March 2026 – Present)*
 - 🎓 **HCAI Tutor** · OvGU Magdeburg - Mentoring students in ethical and explainable AI design *(April 2026 – Present)*
 - 📜 **Microsoft Generative AI for Data Analysis** Professional Certificate *(August 2025)*
