@@ -4,9 +4,8 @@
 📍 Magdeburg, Germany · She/Her · Indian
 
 [![Email](https://img.shields.io/badge/Email-yashashwiniawate%40gmail.com-6B21A8?style=flat&logo=gmail&logoColor=white)](mailto:yashashwiniawate@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6B21A8?style=flat&logo=linkedin&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6B21A8?style=flat&logo=vercel&logoColor=white)](#)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Gold%20%7C%20Python%20%26%20Stats-00EA64?style=flat&logo=hackerrank)](https://hackerrank.com)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Connect-6B21A8?style=flat&logo=linkedin&logoColor=white](https://www.linkedin.com/in/yashashwini-awate-b2abb4227/))](#)
+[![Portfolio]([https://img.shields.io/badge/Portfolio-Visit-6B21A8?style=flat&logo=vercel&logoColor=white](https://yashashwini-awate-tpdm0hn.gamma.site/))](#)
 
 > *"Building AI that humans can trust."*
 
