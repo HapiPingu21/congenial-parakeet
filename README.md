@@ -1,11 +1,12 @@
 # Hi, I'm Yashashwini 👋
+Driven by a name that means *victorious, successful, and glorious*, I consistently strive to deliver impactful results and stand out through excellence.
 
 **ML Engineer · AI Researcher · HCAI Tutor**
 📍 Magdeburg, Germany · She/Her · Indian
 
 [![Email](https://img.shields.io/badge/Email-yashashwiniawate%40gmail.com-6B21A8?style=flat&logo=gmail&logoColor=white)](mailto:yashashwiniawate@gmail.com)
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Connect-6B21A8?style=flat&logo=linkedin&logoColor=white](https://www.linkedin.com/in/yashashwini-awate-b2abb4227/))](#)
-[![Portfolio]([https://img.shields.io/badge/Portfolio-Visit-6B21A8?style=flat&logo=vercel&logoColor=white](https://yashashwini-awate-tpdm0hn.gamma.site/))](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6B21A8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashashwini-awate-b2abb4227/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6B21A8?style=flat&logo=vercel&logoColor=white)](https://yashashwini-awate-tpdm0hn.gamma.site/)
 
 > *"Building AI that humans can trust."*
 
