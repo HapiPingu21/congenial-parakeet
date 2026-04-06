@@ -119,6 +119,10 @@ Tools                MS Excel (Advanced) · Microsoft SSIS · Jupyter Notebook �
 
 ## 🏆 Achievements & Certifications
 
+- 📜 **Deloitte Australia Data Analytics Job Simulation** on Forage *(April 2026)*
+- 📜 **BCG Data Science Job Simulation & BCG GenAI Job Simulation** on Forage *(April 2026)*
+- 📜 **JPMorgan Chase & Co. Quantitative Research Virtual Experience Program** on Forage *(April 2026)*
+- 📜 **Siemens Mobility Operations Industrial Engineer Job Simulation** on Forage *(April 2026)*
 - 🏅 **Anthropic Education Certified** - AI Fluency: Framework & Foundations and AI Fluency for Students  *(April 2026)*
 - 🏅 **McKinsey.org Forward Program** - Selective global leadership & skills accelerator *(March 2026 – Present)*
 - 🎓 **HCAI Tutor** · OvGU Magdeburg - Mentoring students in ethical and explainable AI design *(April 2026 – Present)*
@@ -139,7 +143,7 @@ Tools                MS Excel (Advanced) · Microsoft SSIS · Jupyter Notebook �
 | Language | Level |
 |---|---|
 | English | C1 - Certified Fluent |
-| German | A1/A2 - Certified · Advancing to B-level |
+| German | A1/A2 - Certified · Advancing to B1-level |
 | Hindi | C2 - Native |
 | Marathi | C2 - Native |
 
