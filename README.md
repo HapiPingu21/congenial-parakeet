@@ -6,7 +6,7 @@ Driven by a name that means *victorious, successful, and glorious*, I consistent
 
 [![Email](https://img.shields.io/badge/Email-yashashwiniawate%40gmail.com-6B21A8?style=flat&logo=gmail&logoColor=white)](mailto:yashashwiniawate@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6B21A8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashashwini-awate-b2abb4227/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6B21A8?style=flat&logo=vercel&logoColor=white)]([https://yashashwini-awate-tpdm0hn.gamma.site/](https://ai.studio/apps/762430b7-7690-412f-989e-504b90cfd9cb?fullscreenApplet=true))
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6B21A8?style=flat&logo=vercel&logoColor=white)](https://ai.studio/apps/762430b7-7690-412f-989e-504b90cfd9cb?fullscreenApplet=true)
 
 > *"Building AI that humans can trust."*
 
